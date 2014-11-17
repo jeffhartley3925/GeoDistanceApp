@@ -1,0 +1,210 @@
+Origin,0,0,0 kilometers
+Accra,5.35,-0.06,595.44 kilometers
+Lome,6.09,1.2,690.75 kilometers
+Sao Tome,0.1,6.39,711.24 kilometers
+Porto Novo (constitutional) / Cotonou (seat of government),6.23,2.42,743.62 kilometers
+Yamoussoukro,6.49,-5.17,922.67 kilometers
+Malabo,3.45,8.5,1020.39 kilometers
+Libreville,0.25,9.26,1030.93 kilometers
+Abuja,9.05,7.32,1293.27 kilometers
+Yaounde,3.5,11.35,1321.09 kilometers
+Monrovia,6.18,-10.47,1351.11 kilometers
+Ouagadougou,12.15,-1.3,1359.79 kilometers
+Niamey,13.27,2.06,1494.2 kilometers
+Bamako,12.34,-7.55,1606.58 kilometers
+Freetown,8.3,-13.17,1728.13 kilometers
+Luanda,-8.5,13.15,1738.05 kilometers
+Brazzaville,-4.09,15.12,1741.81 kilometers
+Kinshasa,-4.2,15.15,1748.19 kilometers
+Conakry,9.29,-13.49,1817.42 kilometers
+Bangui,4.23,18.35,2093.92 kilometers
+N'Djamena,12.1,14.59,2100.1 kilometers
+Bissau,11.45,-15.45,2130.88 kilometers
+Banjul,13.28,-16.4,2335.67 kilometers
+Dakar,14.34,-17.29,2484.24 kilometers
+Praia,15.02,-23.34,3063.4 kilometers
+Windhoek,-22.35,17.04,3098.05 kilometers
+Bujumbura,-3.16,29.18,3264.79 kilometers
+Kigali,-1.59,30.04,3347.42 kilometers
+Lusaka,-15.28,28.16,3532.1 kilometers
+Kampala,0.2,32.3,3594.76 kilometers
+Tripoli,32.49,13.07,3867.5 kilometers
+Gaborone,-24.45,25.57,3872.75 kilometers
+Harare,-17.43,31.02,3911.99 kilometers
+Khartoum,15.31,32.35,3943.15 kilometers
+Dodoma,-6.08,35.45,3995.37 kilometers
+Lilongwe,-14,33.48,4003.37 kilometers
+Nairobi,-1.17,36.48,4061.69 kilometers
+Algiers,36.42,3.08,4065.68 kilometers
+Pretoria (administrative) / Cape Town (legislative) / Bloemfontein (judicial),-25.44,28.12,4140.93 kilometers
+Tunis,36.5,10.11,4194.09 kilometers
+Valletta,35.54,14.31,4224.37 kilometers
+Maseru,-29.18,27.3,4353.51 kilometers
+Addis Ababa,9.02,38.42,4374.26 kilometers
+Lisbon,38.42,-9.1,4375.99 kilometers
+Mbabane (administrative),-26.18,31.06,4424.75 kilometers
+Maputo,-25.58,32.32,4489.21 kilometers
+Madrid,40.25,-3.45,4493.09 kilometers
+Asmara,15.19,38.55,4562.62 kilometers
+Cairo,30.01,31.14,4693.08 kilometers
+Andorra la Vella,42.31,1.32,4710.58 kilometers
+Rome,41.54,12.29,4785.64 kilometers
+Djibouti,11.08,42.2,4826.12 kilometers
+Athens,37.58,23.46,4826.14 kilometers
+Moroni,-11.4,43.16,4936.01 kilometers
+Tirane,41.18,19.49,4986.31 kilometers
+San Marino,43.55,12.3,4998.8 kilometers
+Mogadishu,2.02,45.25,5039.84 kilometers
+Jerusalem,31.71,-35.1,5107.34 kilometers
+Amman,31.57,35.52,5130.04 kilometers
+Skopje,42.01,21.26,5138.83 kilometers
+Mamoudzou,-12.48,45.14,5171.9 kilometers
+Sarajevo,43.52,18.26,5172.7 kilometers
+Nicosia,35.1,33.25,5211.39 kilometers
+Bern,46.57,7.28,5231.3 kilometers
+Beirut,33.53,35.31,5245.94 kilometers
+Sofia,42.45,23.2,5263.72 kilometers
+Zagreb,45.5,15.58,5290.08 kilometers
+Damascus,33.3,36.18,5294.57 kilometers
+Ljubljana,46.04,14.33,5312.49 kilometers
+Vaduz,47.08,9.31,5317.25 kilometers
+Belgrade,44.5,20.37,5346.11 kilometers
+Paris,48.5,2.2,5401.77 kilometers
+St. Peter Port,49.26,-2.33,5486.73 kilometers
+Brasilia,-15.47,-47.55,5500.13 kilometers
+Ankara,39.57,32.54,5505.64 kilometers
+Luxembourg,49.37,6.09,5525.25 kilometers
+Bucuresti,44.27,26.1,5562.44 kilometers
+Antananarivo,-18.55,47.31,5564.4 kilometers
+Budapest,47.29,19.05,5578.24 kilometers
+Vienna,48.12,16.22,5579.4 kilometers
+Bratislava,48.1,17.07,5600.88 kilometers
+Brussels,50.51,4.21,5635.47 kilometers
+Riyadh,24.41,46.42,5688.75 kilometers
+London,51.36,-0.05,5715.9 kilometers
+Prague,50.05,14.22,5732.06 kilometers
+Cayenne,5.05,-52.18,5826.35 kilometers
+Amsterdam / The Hague (seat of Government),52.23,4.54,5828.21 kilometers
+Chisinau,47.02,28.5,5919.85 kilometers
+Baghdad,33.2,44.3,5921.93 kilometers
+Dublin,53.21,-6.15,5949.19 kilometers
+Berlin,52.3,13.25,5950.69 kilometers
+Kuwait,29.3,48,6043.2 kilometers
+Manama,26.1,50.3,6120.57 kilometers
+Warsaw,52.13,21,6124.72 kilometers
+Paramaribo,5.5,-55.1,6152.59 kilometers
+Doha,25.15,51.35,6184.8 kilometers
+Copenhagen,55.41,12.34,6267.67 kilometers
+Kiev (Russia),50.3,30.28,6290.35 kilometers
+Yerevan,40.1,44.31,6322.91 kilometers
+T'bilisi,41.43,44.5,6418.33 kilometers
+Abu Dhabi,24.28,54.22,6432 kilometers
+Minsk,53.52,27.3,6466.89 kilometers
+Vilnius,54.38,25.19,6476.64 kilometers
+Georgetown,6.5,-58.12,6493.69 kilometers
+Tehran,35.44,51.3,6608.03 kilometers
+Nouakchott,-20.1,57.3,6623.3 kilometers
+Riga,56.53,24.08,6651.6 kilometers
+Oslo,59.55,10.45,6689.37 kilometers
+Bridgetown,13.05,-59.3,6696.9 kilometers
+Baku,40.29,49.56,6715.83 kilometers
+Asuncion,-25.1,-57.3,6756.51 kilometers
+Stockholm,59.2,18.03,6773.5 kilometers
+Masqat,23.37,58.36,6812.52 kilometers
+Castries,14.02,-60.58,6848.62 kilometers
+Kingstown,13.1,-61.1,6891.12 kilometers
+Fort-de-France,14.36,-61.02,6900.79 kilometers
+Tallinn,59.22,24.48,6926.95 kilometers
+Torshavn,62.05,-6.56,6927.73 kilometers
+Roseau,15.2,-61.24,6937.26 kilometers
+Basse-Terre,16,-61.44,6971.41 kilometers
+Montevideo,-34.5,-56.11,6971.6 kilometers
+West Indies,17.2,-61.48,6996.13 kilometers
+Helsinki,60.15,25.03,7032.8 kilometers
+Moskva,55.45,37.35,7033.9 kilometers
+Basseterre,17.17,-62.43,7095.39 kilometers
+Ashgabat,38,57.5,7228.42 kilometers
+Road Town,18.27,-64.37,7317.14 kilometers
+Charlotte Amalie,18.21,-64.56,7336.02 kilometers
+Reykjavik,64.1,-21.57,7348.86 kilometers
+Buenos Aires,-36.3,-60,7371.51 kilometers
+Caracas,10.3,-66.55,7450.92 kilometers
+San Juan,18.28,-66.07,7495.1 kilometers
+Saint-Pierre,46.46,-56.12,7502.98 kilometers
+La Paz (administrative) / Sucre (legislative),-16.2,-68.1,7680.37 kilometers
+Willemstad,12.05,-69,7732.92 kilometers
+Oranjestad,12.32,-70.02,7845.9 kilometers
+Santo Domingo,18.3,-69.59,7864.32 kilometers
+Stanley,-51.4,-59.51,7962.38 kilometers
+Kabul,34.28,69.11,8109.13 kilometers
+Port-au-Prince,18.4,-72.2,8139.6 kilometers
+Dushanbe,38.33,68.48,8154.98 kilometers
+Male,4,73.28,8160.06 kilometers
+Santiago,-33.24,-70.4,8202.81 kilometers
+Bogota,4.34,-74,8240.77 kilometers
+Nuuk,64.1,-51.35,8254.28 kilometers
+Tashkent,41.2,69.1,8283.39 kilometers
+Islamabad,33.4,73.1,8453.05 kilometers
+Kingston,18,-76.5,8588.58 kilometers
+Lima,-12,-77,8601.55 kilometers
+Quito,-0.15,-78.35,8719.65 kilometers
+Astana,51.1,71.3,8723.55 kilometers
+Nassau,25.05,-77.2,8727.61 kilometers
+Bishkek,42.54,74.46,8749.15 kilometers
+New Delhi,28.37,77.13,8758.32 kilometers
+Panama,9,-79.25,8834.71 kilometers
+Ottawa,45.27,-75.42,8880.53 kilometers
+Washington DC,39.91,-77.02,8912.08 kilometers
+Durham NC,36,-78.89,9018.07 kilometers
+George Town,19.2,-81.24,9095.89 kilometers
+Havana,23.08,-82.22,9220.02 kilometers
+San Jose,9.55,-84.02,9359.92 kilometers
+Kathmandu,27.45,85.2,9542.25 kilometers
+Managua,12.06,-86.2,9602.62 kilometers
+Tegucigalpa,14.05,-87.14,9707.42 kilometers
+Belmopan,17.18,-88.3,9835.43 kilometers
+San Salvador,13.4,-89.1,9918.75 kilometers
+Thimphu,27.31,89.45,9961.8 kilometers
+North Pole,90,0,10016.18 kilometers
+South Pole,-90,0,10016.18 kilometers
+Guatemala,14.4,-90.22,10039.9 kilometers
+Dhaka,23.43,90.26,10042.73 kilometers
+Yangon,16.45,96.2,10677.84 kilometers
+Temple TX,31.1,-97.35,10716.08 kilometers
+Mexico,19.2,-99.1,10972.16 kilometers
+Bangkok,13.45,100.35,11136.12 kilometers
+Kuala Lumpur,3.09,101.41,11284.14 kilometers
+Wheat Ridge CO,39.76,-105.08,11300.13 kilometers
+Vientiane,17.58,102.36,11326.55 kilometers
+Phnom Penh,11.33,104.55,11603.23 kilometers
+Hanoi,21.05,105.55,11628.65 kilometers
+Jakarta,-6.09,106.49,11840.72 kilometers
+North Rim,36.2,-112,11974.39 kilometers
+Beijing,39.55,116.2,12231.22 kilometers
+Macau,22.12,113.33,12411.52 kilometers
+Bandar Seri Begawan,4.52,115,12789.21 kilometers
+Pyongyang,39.09,125.3,12981.86 kilometers
+Seoul,37.31,126.58,13165.04 kilometers
+Manila,14.4,121.03,13349.7 kilometers
+Dili,-8.29,125.34,13902.08 kilometers
+Kingston,-45.2,168.43,14874.61 kilometers
+Koror,7.2,134.28,14895.29 kilometers
+Canberra,-35.15,149.08,14973.45 kilometers
+Wellington,-41.19,174.46,15414.36 kilometers
+Saipan,15.12,145.45,15877.48 kilometers
+Papeete,-17.32,-149.34,16160.05 kilometers
+Port Moresby,-9.24,147.08,16242.78 kilometers
+Noumea,-22.17,166.3,17152.31 kilometers
+Palikir,6.55,158.09,17492.5 kilometers
+Honiara,-9.27,159.57,17544.72 kilometers
+Nuku'alofa,-21.1,-174,17595.2 kilometers
+Port-Vila,-17.45,168.18,17698.29 kilometers
+Suva,-18.06,178.3,18013.86 kilometers
+Pago Pago,-14.16,-170.43,18136.45 kilometers
+Apia,-13.5,-171.5,18261.63 kilometers
+Funafuti,-8.31,179.13,19102.52 kilometers
+Tarawa,1.3,173,19240.07 kilometers
+West,0,-180,20032.37 kilometers
+East,0,180,20032.37 kilometers
+ERROR: Location parameter is missing - Input:  53.00S 74.00E
+ERROR: Longitude is invalid - Input: Nowhere 92N 181E
