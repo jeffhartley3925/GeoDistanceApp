@@ -21,10 +21,10 @@
 			{
 				return null;
 			}
-			var target = new GeoPosition(args[0], args[1]);
+			var Target = new GeoPosition(args[0], args[1]);
 
-			// GetPosition overrides the minus operator
-			return Origin - target;
+			// GetPosition overrides the minus operator, the logic is there.
+			return Origin - Target;
 		}
 	}
 }

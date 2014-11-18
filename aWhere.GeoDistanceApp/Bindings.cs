@@ -7,7 +7,7 @@ namespace aWhere
 		public override void Load()
 		{
 			// configure IMailSender and ILogging to resolve to their specified concrete implementations
-			Bind<ICalculationMethod>().To<HaversineMethod>();
+			Bind<ICalculationMethod>().To<GeoCoordinateMethod>();
 		}
 	}
 }

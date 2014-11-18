@@ -6,7 +6,8 @@
 
 	/// <summary>
 	/// This class is primarily used to validate the latitude and longitude and massage the sign of the 
-	/// latitude and longitude before they get passed to the distance calculation method.
+	/// latitude and longitude before they get passed to the distance calculation method. The minus operator
+	/// is overridden as well - the operator is used by the GeoCoordinateMethod implementation. 
 	/// </summary>
 	public class GeoPosition
 	{
@@ -68,15 +69,15 @@
 		}
 
 		// override the minus operator
-		public static double operator -(GeoPosition geoPosition1, GeoPosition geoPosition2)
+		public static double operator-(GeoPosition origin, GeoPosition target)
 		{
 			var originCoordinate = new GeoCoordinate(
-				double.Parse(geoPosition1.Latitude.ToString()),
-				double.Parse(geoPosition1.Longitude.ToString()));
+				double.Parse(origin.Latitude.ToString()),
+				double.Parse(origin.Longitude.ToString()));
 
 			var targetCoordinate = new GeoCoordinate(
-				double.Parse(geoPosition2.Latitude.ToString()),
-				double.Parse(geoPosition2.Longitude.ToString()));
+				double.Parse(target.Latitude.ToString()),
+				double.Parse(target.Longitude.ToString()));
 
 			return Math.Round(originCoordinate.GetDistanceTo(targetCoordinate) / 1000, 2);
 		}
